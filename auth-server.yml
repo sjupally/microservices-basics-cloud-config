@@ -21,7 +21,7 @@ logging:
 # and token store
 spring:
   datasource:
-    url: jdbc:sqlserver://SQL6427Dc\\CDEF:1099;databaseName=APP_CCR;autoReconnect=true
+    url: jdbc:sqlserver://SQL6427Dc\\CDEF:1099;databaseName=APP_GCCP_TRAINING;autoReconnect=true
     username: APPID_DESKNET_AF
     password: DeskNetAccess5
     driver-class: com.microsoft.sqlserver.jdbc.SQLServerDriver
